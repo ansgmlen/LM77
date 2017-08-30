@@ -1,4 +1,4 @@
-# LM77
+# LZ77
 lm77 compression
 
 #Usage
